@@ -8,7 +8,7 @@ copyright = "Copyright &copy; Copyright Owner. Licensed under <a target=\"_blank
 
 # Controls default theme and theme components
 theme = [
-  #"fractal-forest", # OBSD
+  "fractal-forest", # OBSD
   "after-dark" # AGPL-3.0-or-later
 ]
 
@@ -39,6 +39,6 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 [params.layout.footer]
   hidden = false # Optional, set true to hide footer
 
-#[params.modules.fractal_forest]
-#  enabled = false # Optional, set false to disable module
-#  decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
+[params.modules.fractal_forest]
+  enabled = false # Optional, set false to disable module
+  decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
