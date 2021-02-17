@@ -200,7 +200,7 @@ mark, kbd {
 }
 .hack header h1 {
   font-size: 1.6em;
-  letter-spacing: -0.1rem;
+  letter-spacing: -0.02rem;
   /*font-family: 'FiraCode-Bold', Courier;*/
   font-family:'Fira Code', Courier;
 }
@@ -424,7 +424,7 @@ figure a:hover {
 }
 
 .hack, .hack em, .hack strong {
- font-family: 'Fira Code Retina', Courier;
+ font-family: 'Fira Code Light', Courier;
  font-size: inherit;
  line-height: inherit;
  /*font-size: 1rem;*/
