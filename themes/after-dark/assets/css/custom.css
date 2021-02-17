@@ -28,6 +28,7 @@
 /*Colors from https://coolors.co/fc197b-dd70ff-ebff3f-4dff21-007cf9*/
 
 
+/*
 @font-face {
 font-family: 'Fira Code';
 src: url('../fonts/FiraCode-Bold.woff2') format('woff2'),
@@ -51,6 +52,10 @@ src: url('../fonts/FiraCode-Light.woff2') format('woff2'),
 font-weight: lighter;
 font-style: normal;
 }
+*/
+
+/* CSS import is MUCH faster than having the browser load them from a folder in the directory */
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
 
 article {
   margin-bottom: 60px;
@@ -239,10 +244,9 @@ div.homepage-content {
 figure {
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
 }
 figure img {
-  max-width: 80%;
+  max-width: 100%; /*was 80% */
 }
 figure a {
   border-bottom: none !important;
@@ -250,6 +254,19 @@ figure a {
 figure a:hover {
   background-color: inherit !important;
 }
+
+
+.responsive-iframe iframe, .ratio-container>*:not([itemprop=caption]) {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto; /* was 100%; */
+}
+
+
+
+
 /* ## Google Maps */
 .mapcanvas {
   /* default map canvas height */

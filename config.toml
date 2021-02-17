@@ -84,5 +84,5 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   hidden = false # Optional, set true to hide footer
 
 [params.modules.fractal_forest]
-  enabled = true # Optional, set false to disable module
+  enabled = false # Optional, set false to disable module
   decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
