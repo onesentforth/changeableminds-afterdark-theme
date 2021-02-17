@@ -1,5 +1,5 @@
-#baseURL = "https://priceless-torvalds-200b97.netlify.app"
-baseURL = "http://localhost:1313"
+baseURL = "https://priceless-torvalds-200b97.netlify.app"
+#baseURL = "http://localhost:1313"
 title = "Changeable Minds"
 
 languageCode = "en-US" # Controls site language
