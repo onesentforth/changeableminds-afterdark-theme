@@ -28,7 +28,7 @@ summary = "***Your church has a serious problem.*** I'm sure that you'd love to 
 ## The Discipleship Crisis
 
 {{< blockquote cite="Bill Hull, The Disciple-Making Pastor (Grand Rapids, Mich.: Revell, 1988)" citelink="" >}}
-  <p>The Great Commission has been worshipped, but not obeyed. The church has tried to get world evangelization without disciple making.</p>
+  The Great Commission has been worshipped, but not obeyed. The church has tried to get world evangelization without disciple making.
 {{< /blockquote >}}
 
 I'm compelled to tell you something that may be difficult for you to hear.
