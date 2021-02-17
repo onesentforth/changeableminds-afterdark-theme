@@ -57,7 +57,7 @@ article {
 }
 
 nav a.active {
- background-color: #ff0000;*/
+ background-color: #dda600;*/
  /*background-color: #dd0000;*/
  /*background-color: #4DFF21;*/
  color: #fff;
@@ -174,7 +174,7 @@ a[itemprop="url"], [itemprop="name"] a, summary {
   /*background-color: #ff2e88;*/
   /*background-color: #ff0000;*/
   color: #000;
-  background-color: #dda600;
+  background-color: #ff0000;
   outline: none;
   border-bottom: none;
 }
