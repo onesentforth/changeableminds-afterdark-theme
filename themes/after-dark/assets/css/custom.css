@@ -1,59 +1,3 @@
-/*
-@font-face {
-  font-family: 'FiraCode';
-  src: url('../FiraCode-Regular.woff') format('woff'), url('../FiraCode-Regular.ttf')  format('truetype');
-  font-weight: 300;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'FiraCode-Medium';
-  src: url('../FiraCode-Medium.woff') format('woff'), url('../FiraCode-Medium.ttf')  format('truetype');
-  font-weight: 500;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'FiraCode-Bold';
-  src: url('../FiraCode-Bold.woff') format('woff'), url('../FiraCode-Bold.ttf')  format('truetype');
-  font-weight: 600;
-  font-style: normal;
-}
-
-/*
-***==> I put the 'font-face' code in the 'baseof.html' file. KJW <==***
-*/
-
-
-/*Colors from https://coolors.co/fc197b-dd70ff-ebff3f-4dff21-007cf9*/
-
-
-/*
-@font-face {
-font-family: 'Fira Code';
-src: url('../fonts/FiraCode-Bold.woff2') format('woff2'),
-     url('../fonts/FiraCode-Bold.woff') format('woff');
-font-weight: 900;
-font-style: normal;
-}
-
-@font-face {
-font-family: 'Fira Code Retina';
-src: url('../fonts/FiraCode-Retina.woff2') format('woff2'),
-     url('../fonts/FiraCode-Retina.woff') format('woff');
-font-weight: retina;
-font-style: normal;
-}
-
-@font-face {
-font-family: 'Fira Code Light';
-src: url('../fonts/FiraCode-Light.woff2') format('woff2'),
-     url('../fonts/FiraCode-Light.woff') format('woff');
-font-weight: lighter;
-font-style: normal;
-}
-*/
-
 /* CSS import is MUCH faster than having the browser load them from a folder in the directory */
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css);
 
@@ -445,7 +389,7 @@ figure a:hover {
  font-size: inherit;
  line-height: inherit;
  /*font-size: 1rem;*/
- /*line-height: 1.4rem;*/
+ line-height: 1.4rem;*/
 }
 
 .hack header p.muted {
@@ -460,7 +404,7 @@ figure a:hover {
 }
 
 .dark code, .dark strong {
-    color: inherit;
+    color: #fff;
 }
 
 small.muted {

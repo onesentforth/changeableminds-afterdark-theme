@@ -3,8 +3,8 @@ title = "About"
 date = 2018-03-16
 description = "About Jason West and Disciple School"
 draft = true
-menu = "main"
-weight = 3
+#menu = "main" #I added to main menu and set the weight in the config
+#weight = 3
 +++
 
 <div class="alert alert-error">
@@ -28,10 +28,10 @@ And this website is where I will try to EXPLAIN the things I EXPLORE.
 As I read an article recently, I discovered this amazing quote from <b>Thomas J. Watson</b>, the famous chairman and CEO of International Business Machines (IBM):
 
 <blockquote >
-  <li>"Follow the path of the unsafe, <b>independent thinker</b>.</li>
-  <li><b>Expose your ideas</b> to the dangers of controversy.</li>
-  <li><b>Speak your mind</b> and fear less the label of 'crack-pot' than the stigma of conformity.</li>
-  <li>And on issues that seem important to you, <b>stand up and be counted</b> at any cost."</li>
+  "Follow the path of the unsafe, <b>independent thinker</b>.
+<b>Expose your ideas</b> to the dangers of controversy.
+<b>Speak your mind</b> and fear less the label of 'crack-pot' than the stigma of conformity.
+And on issues that seem important to you, <b>stand up and be counted</b> at any cost."
 </blockquote>
 
 By the time I stumbled across his quote, I was already on the path towards creating this blog and finally publishing my thoughts and ideas about the Bible and other church-related issues. But reading it made me more determined than ever to expose my ideas and speak my mind - in other words, to make this website a reality.
