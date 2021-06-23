@@ -55,6 +55,9 @@ That's why I chose to call this website, "Changeable Minds."
 
 Here's how the website works.
 Posts represent bits of data I'm transferring from all of the index cards, post-it notes, and digital files I've collected over years of research.
+
+Gladwell has a huge pile of stuff covering his desk. He has reams of printout with hours and hours of transcribed interviews. He has coffee stained Moleskin notebooks packed with his chicken scrawl from the scores of research papers and books he’s read. He’s got post-it notes, backs of envelopes, tear sheets, and scraps of newspaper…all with some intellectual fragment that he’ll need to assemble his first draft.
+
 Posts may be random thoughts...
 
 Unconnected to other bits...
