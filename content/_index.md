@@ -8,7 +8,7 @@ keywords = [
   "true disciples",
   "disciple of jesus",
   "disciples of jesus",
-  "jason west"
+  "jason west",
   "bible study",
   "discipling",
   "disciple",
@@ -41,8 +41,15 @@ keywords = [
 # <em>Becoming and Producing Disciples of Jesus Christ</em>
 -->
 
-DRAFT
+Welcome to Changeable Minds.
 
+My name is Jason West, and this is my blog.
+
+I'm working to make some connections between all of the subjects I've been studying: persuason, psychology, the Bible, religion, philosophy, science
+
+
+
+<!--
 Get some info from Metanoia about the importance of metanoia...
 
 Jesus, the Supreme Agent of God, announces God's intentions for mankind. Those intentions are summarized for us by the gospel writers' description of Jesus' command to "Repent." But that's not an accurate translation of what Jesus actually said - "metanoite" (pronounced meta-no-EH-oh).
@@ -72,9 +79,8 @@ Books are proven means of effectively communicating...
 
 As I make connections between those bits of data, I will assemble the information into Pages.
 
+-->
 
-
-Pages
 
 
 

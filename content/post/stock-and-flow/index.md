@@ -7,6 +7,7 @@ lastmod = ""
 keywords = ["editorial calendar", "content strategy", "social media", "Malcolm Gladwell", "Austin Kleon", "The Tipping Point"]
 categories = ["Blog Management"]
 tags = ["social media", "content strategy"]
+draft = "true"
 [[resources]]
   src = "img/stock-and-flow-LG.jpg"
   name = "header"
