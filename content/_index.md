@@ -45,7 +45,7 @@ Welcome to Changeable Minds.
 
 My name is Jason West, and this is my blog.
 
-I'm working to make some connections between all of the subjects I've been studying: persuason, psychology, the Bible, religion, philosophy, science
+I'm working to make some connections between all of the subjects I've been studying: persuason, psychology, the Bible, religion, philosophy, science.
 
 
 
